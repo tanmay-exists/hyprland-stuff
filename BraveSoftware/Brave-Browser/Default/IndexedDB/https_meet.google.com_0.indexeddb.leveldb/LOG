@@ -1,6 +1,0 @@
-2024/11/05-15:22:07.536 a48 Creating DB /home/tanmay-exits/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb since it was missing.
-2024/11/05-15:22:07.557 a48 Reusing MANIFEST /home/tanmay-exits/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/05-17:34:56.588 a48 Level-0 table #5: started
-2024/11/05-17:34:56.591 a48 Level-0 table #5: 7470 bytes OK
-2024/11/05-17:34:56.594 a48 Delete type=0 #3
-2024/11/05-17:34:56.594 a48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
