@@ -2,7 +2,7 @@
 
 Welcome! 
 Pretty basic configs here, I'm a beginner 😭. 
-Everything is hardcoded, automation coming not, very soon.
+Everything is hardcoded.
 
 ## Features
 
