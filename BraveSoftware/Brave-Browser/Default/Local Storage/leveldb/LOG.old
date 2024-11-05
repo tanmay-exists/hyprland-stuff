@@ -1,0 +1,39 @@
+2024/11/04-15:46:45.382 4 Reusing MANIFEST /home/tanmay-exits/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/04-15:46:45.393 4 Recovering log #154
+2024/11/04-15:46:45.395 4 Reusing old log /home/tanmay-exits/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000154.log 
+2024/11/04-15:48:05.314 5 Level-0 table #158: started
+2024/11/04-15:48:05.327 5 Level-0 table #158: 51338 bytes OK
+2024/11/04-15:48:05.331 5 Delete type=0 #154
+2024/11/04-15:48:05.332 5 Compacting 4@0 + 1@1 files
+2024/11/04-15:48:05.361 5 Generated table #159@0: 350 keys, 1133538 bytes
+2024/11/04-15:48:05.362 5 Compacted 4@0 + 1@1 files => 1133538 bytes
+2024/11/04-15:48:05.365 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/04-15:48:05.366 5 Delete type=2 #146
+2024/11/04-15:48:05.366 5 Delete type=2 #149
+2024/11/04-15:48:05.366 5 Delete type=2 #152
+2024/11/04-15:48:05.367 5 Delete type=2 #155
+2024/11/04-15:48:05.367 5 Delete type=2 #158
+2024/11/04-17:25:46.017 5 Level-0 table #161: started
+2024/11/04-17:25:46.029 5 Level-0 table #161: 14034 bytes OK
+2024/11/04-17:25:46.034 5 Delete type=0 #157
+2024/11/04-19:04:48.810 5 Level-0 table #163: started
+2024/11/04-19:04:48.821 5 Level-0 table #163: 45594 bytes OK
+2024/11/04-19:04:48.830 5 Delete type=0 #160
+2024/11/04-19:37:01.774 5 Level-0 table #165: started
+2024/11/04-19:37:01.784 5 Level-0 table #165: 15658 bytes OK
+2024/11/04-19:37:01.787 5 Delete type=0 #162
+2024/11/04-19:57:36.857 4 Level-0 table #167: started
+2024/11/04-19:57:36.869 4 Level-0 table #167: 15484 bytes OK
+2024/11/04-19:57:36.874 4 Delete type=0 #164
+2024/11/04-19:57:36.875 4 Compacting 4@0 + 1@1 files
+2024/11/04-19:57:36.908 4 Generated table #168@0: 386 keys, 1138808 bytes
+2024/11/04-19:57:36.908 4 Compacted 4@0 + 1@1 files => 1138808 bytes
+2024/11/04-19:57:36.911 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/04-19:57:36.912 4 Delete type=2 #159
+2024/11/04-19:57:36.912 4 Delete type=2 #161
+2024/11/04-19:57:36.912 4 Delete type=2 #163
+2024/11/04-19:57:36.912 4 Delete type=2 #165
+2024/11/04-19:57:36.912 4 Delete type=2 #167
+2024/11/04-20:39:30.659 5 Level-0 table #170: started
+2024/11/04-20:39:30.670 5 Level-0 table #170: 20043 bytes OK
+2024/11/04-20:39:30.685 5 Delete type=0 #166
